@@ -11,3 +11,4 @@ joblib
 xgboost
 nltk
 torch
+tf-keras
