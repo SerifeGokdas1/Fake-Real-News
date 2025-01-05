@@ -79,7 +79,7 @@ Install the required dependencies:
 `pip install -r requirements.txt`
 
 Run the project locally:
-`python main.py`
+`streamlit run main.py`
 
 ---
 
