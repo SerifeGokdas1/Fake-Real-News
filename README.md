@@ -68,8 +68,10 @@ Ensure you have the following installed:
 
 Clone the repository and navigate to the project directory:
 
-`git clone https://github.com/your-repo/fake-news-detection.git'
-`cd fake-news-detection`
+```bash
+git clone https://github.com/your-repo/fake-news-detection.git
+cd fake-news-detection
+```
 
 
 Install the required dependencies:
