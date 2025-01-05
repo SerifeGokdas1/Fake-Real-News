@@ -68,17 +68,13 @@ Ensure you have the following installed:
 
 Clone the repository and navigate to the project directory:
 
-```bash
-git clone https://github.com/your-repo/fake-news-detection.git
-cd fake-news-detection
-'''
+`git clone https://github.com/your-repo/fake-news-detection.git'
+'cd fake-news-detection'
 
 
 Install the required dependencies:
 
-'''bash
-pip install -r requirements.txt
-'''
+'pip install -r requirements.txt'
 
 Run the project locally:
 'python main.py'
