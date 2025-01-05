@@ -69,15 +69,15 @@ Ensure you have the following installed:
 Clone the repository and navigate to the project directory:
 
 `git clone https://github.com/your-repo/fake-news-detection.git'
-'cd fake-news-detection'
+`cd fake-news-detection`
 
 
 Install the required dependencies:
 
-'pip install -r requirements.txt'
+`pip install -r requirements.txt`
 
 Run the project locally:
-'python main.py'
+`python main.py`
 
 ---
 
@@ -108,15 +108,14 @@ Run the project locally:
 ### Confusion Matrices:
 Below are the confusion matrices for each model used:
 
-- Logistic Regression
 ![Logistic Regression Confusion Matrix](https://github.com/user-attachments/assets/54cf423b-3611-46f7-a690-6e29ea658ac5)
-- Neural Networks
+
 ![Neural Networks Confusion Matrix](https://github.com/user-attachments/assets/682c580a-7dca-4736-9f32-613abc37d6ff)
-- Random Forest
+
 ![Random Forest Confusion Matrix](https://github.com/user-attachments/assets/88fd7b52-30a7-4ffa-9671-2353a5987727)
-- Support Vector Machine
+
 ![SVM Confusion Matrix](https://github.com/user-attachments/assets/22b3d910-25cb-486c-8f7d-09d8fadbab08)
-- XGBoost
+
 ![XGBoost Confusion Matrix](https://github.com/user-attachments/assets/133088f8-5271-4f32-b42a-028c4e3dd781)
 
 ---
@@ -124,15 +123,14 @@ Below are the confusion matrices for each model used:
 ### ROC Curves:
 The ROC curves for all models are shown below to compare their performance:
 
-- Logistic Regression
 ![Logistic Regression ROC Curve](https://github.com/user-attachments/assets/89ee663a-b574-4936-a1f7-97a71e525276)
-- Neural Networks
+
 ![Neural Networks ROC Curve](https://github.com/user-attachments/assets/bd6b6e4a-2081-416a-b861-498c31b28f28)
-- Random Forest
+
 ![Random Forest ROC Curve](https://github.com/user-attachments/assets/5657de67-e61b-4709-96c3-ce67e472bc4e)
-- Support Vector Machine
+
 ![SVM ROC Curve](https://github.com/user-attachments/assets/1ecefd09-1ced-417e-a46a-d0f8e37419f8)
-- XGBoost
+
 ![XGBoost ROC Curve](https://github.com/user-attachments/assets/4fc486d8-749a-4d66-bccf-31fc4792781b)
 
 
